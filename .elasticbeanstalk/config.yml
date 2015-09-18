@@ -1,0 +1,10 @@
+branch-defaults:
+  default:
+    environment: laurren-dev
+global:
+  application_name: eb_django_app
+  default_ec2_keyname: aws-eb2
+  default_platform: Python 2.7
+  default_region: us-east-1
+  profile: eb-cli
+  sc: null
